@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manuja Hiranya</h1>
-<h3 align="center">I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, My SQL, Mongo DB, Web developing and more.</h3>
+<h3 align="center">I’m a passionate UI/UX Designer with a keen eye for creating user-centered, visually appealing, and functional digital experiences. With a strong foundation in design principles and user research, I strive to craft intuitive interfaces that elevate the user experience. My approach is driven by creativity, empathy, and a deep understanding of user needs, ensuring every project I work on looks great, is easy to navigate, and provides value. Also interested in HTML, CSS, PHP, React JS, Vue JS, JavaScript, MySQL, MongoDB, Web development, and more.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuja13&label=Profile%20views&color=0e75b6&style=flat" alt="manuja13" /> </p>
 
 - 🎂 I'm 22 years old.
 - 🎓 I am a Pearson B-tech graduate with a Higher National Diploma in Computing from APIIT.
 - 👨🏻‍🎓 I'm a BSc (Hons) graduate in Computer Science from Staffordshire University.
-- ❤️ I look forward to collaborating on building websites, web apps, and more.
+- ❤️ I look forward to collaborating on designing and building websites, web apps, and more.
 
 - 📫 How to reach me **manuja.hiranya8@gmail.com**
 
