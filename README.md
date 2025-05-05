@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/manuja-hiranya-8020b4257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuja-hiranya-8020b4257" height="30" width="50" /></a>
 <a href="https://fb.com/manuja.hiranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manuja.hiranya" height="50" width="40" /></a>
-<a href="https://instagram.com/manuja_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuja_13" height="50" width="40" /></a>
+<a href="https://instagram.com/_manuja__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuja_13" height="50" width="40" /></a>
 <a href="https://discord.gg/139587" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="139587" height="50" width="40" /></a>
 </p>
 
